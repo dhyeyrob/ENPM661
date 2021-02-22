@@ -23,11 +23,11 @@
 * I have referenced the values 10, 11, 12, 13, 14, 15 as A, B, C, D, E, F respectively, so please take the reference accordingly. The output will be generated in the console as well as a separate '.txt' text file will be generated for each test case. The output will be initial and solved state along with the path followed by 4x4 matrix starting from the initial node to the solved position.
 
 ## Following are the text file names for each test case
-* Test_case_1.txt
-* Test_case_2.txt
-* Test_case_3.txt
-* Test_case_4.txt
-* Test_case_5.txt
+* nodePath_Test_case_1.txt
+* nodePath_Test_case_2.txt
+* nodePath_Test_case_3.txt
+* nodePath_Test_case_4.txt
+* nodePath_Test_case_5.txt
 
 ## Maintainer
 * Dhyey Patel(dhyeypate1825@gmail.com)
