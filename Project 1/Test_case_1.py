@@ -1,6 +1,6 @@
 import time
 start_time = time.time()                                              # note the start time
-m_file = open('Test_case_1.txt', "w+")
+m_file = open('nodePath_Test_case_1.txt', "w+")
 
 #  A function to convert list into string
 def lis_2_str(mat):
