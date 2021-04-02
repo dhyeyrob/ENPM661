@@ -17,6 +17,6 @@
 * Check whether all the libraries are installed or not.
 * Run the code.
 * User will be required to enter the x and y co-ordinates of the start as well as the goal location, radius and the clearance of the robot.
-* A visualization graph as well as optimal path will be shown if valid start and goal location co-ordinates are provided.
+* A visualization graph as well as optimal path will be shown if valid start and goal location co-ordinates are provided. And a video file will be saved in the folder.
 ## Maintainer
 * Dhyey patel(dhyeypate1825@gmail.com)
